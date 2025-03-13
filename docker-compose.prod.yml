@@ -11,7 +11,7 @@ services:
       - web
     ports:
       - "81:80"
-      - "443:443"
+      - "444:443"
       # Uncomment for debug
       #- "8080:8080"
     volumes:
